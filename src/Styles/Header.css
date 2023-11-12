@@ -1,0 +1,41 @@
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  background-color: #2c3e50;
+  color: white;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 50px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.solution-ia p {
+  margin: 0;
+  font-size: 16px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.login {
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.cart {
+  font-size: 24px;
+  cursor: pointer;
+}
