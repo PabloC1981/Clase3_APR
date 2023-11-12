@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Clase3_Arg_Prog_React/"
+  base: "/Clase3_APR/"
 })
